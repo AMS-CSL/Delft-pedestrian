@@ -1,0 +1,8 @@
+#
+#Mon Jun 13 14:12:25 CEST 2016
+operators=envelope~-~rnd~as~>~+~and~not~flip~empty~where~at_distance~.~circle~among
+plugins=msi.gama.core
+statements=reflex~do~arg~if~else~set~aspect~draw~init~create~ask~output~monitor~display~display_population~action~save~exhaustive~genetic~tabu
+skills=reflex~moving
+types=geometry~string~list~int~unknown~point~agent~rgb~float~bool~date~container
+actions=debug~error~tell~write~die~_init_~_step_~halt~pause~follow~goto~move~wander
